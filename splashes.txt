@@ -28,6 +28,7 @@ Is it modification?
 Jeb wants to rest
 Do you want a cake?
 New textures!
+Community <3 4J
 Do you remember old textures?
 Lena Raine joins the game!
 Listen the liltommyj's music!
@@ -46,11 +47,13 @@ Bedrocked!
 LOOK BEHIND YOU.
 Hello, Lady Agnes!
 !enobrenniD
+Take a deep breath. Build something cool.
 Sexy!
 Limited edition!
 Flashing letters!
 Made by Notch!
 It's here!
+404 splash not found!
 Best in class!
 It's finished!
 Kind of dragon free!
@@ -433,7 +436,6 @@ flowers more important than grass
 Pandamonium!
 code.org/minecraft
 discord.gg/minecraft
-
 Machine learning!
 Release the Snord!
 Team Mystic!
